@@ -1,7 +1,7 @@
 # A Beginner's Guide to Passive Acoustic Monitoring for Cetaceans
 
-![PAM's](/Users/divyapanicker/Google\ Drive/UW\ coursework/Badawg_Acoustics\ working\ group/Add_files_guide/photo.png) 
-
+![PAM's](https://cdn.rawgit.com/divyapanicker/Beginners-tutorial-passive-acoustic-monitoring/ff4e85b0/img/photo.png)
+ 
 
 ## Contents
 
